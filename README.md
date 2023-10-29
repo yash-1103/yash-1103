@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yash Chavan
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Computer Engineering in my Btech.
+- 📫 How to reach me LinkedIn:https://www.linkedin.com/in/yash-chavan-668b2b24b/
